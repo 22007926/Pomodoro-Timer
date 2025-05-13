@@ -1,4 +1,4 @@
-# Student Pomodoro Timer
+# COM2120: Pomodoro Timer
 
 ## Overview
 
